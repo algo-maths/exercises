@@ -13,26 +13,24 @@
     This markdown file should have the following structure:
 
     ```
-    <!-- 
-        Topics: [geometry, applied, something]
-        Difficulty: [7, 8, 9]
-        Source: Leaving Cert 2023 Paper 1 Higher Level
-    -->
+    Topics: [geometry, applied, something]\
+    Difficulty: [7, 8, 9]\
+    Source: Leaving Cert 2023 Paper 1 Higher Level
 
-    <!-- Question -->
+    # Question
 
     How many 0.5cm slices can you cut from a bread that is 25cm long?
 
     ![](123ABCDEF.png)
 
-    <!-- Choices -->
+    # Choices
 
-    1. 50 <!-- Correct -->
+    1. 50 #
     2. 25
     3. 100
     4. 12.5
 
-    <!-- Solution -->
+    # Solution
 
     To find the number of slices, we divide the length of the bread by the thickness of each slice.
 
